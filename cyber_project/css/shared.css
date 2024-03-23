@@ -230,6 +230,19 @@ section {
     word-spacing: 0pt;
 }
 
+/* My added code to align rsvp-text */
+.rsvp-text {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    color: #13161B;
+    font-weight: 500;
+    font-size: 1.3em;
+    letter-spacing: 0pt;
+    word-spacing: 0pt;
+}
+/* My added code to align rsvp-text End*/
+
 .reservation h2 span {
     width: 70%;
     text-align: center;
